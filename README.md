@@ -2,4 +2,4 @@
 Materia: Construcción de Software I
 Proyecto: Club Social
 Equipo: Estefanía Loaiza Acosta
-Programa para administrar un clud social.
+Programa para administrar un club social.
